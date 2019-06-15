@@ -5,4 +5,4 @@
  
 
 
-document.getElementById("name").innerHTML = "Paragraph changed!";
+document.getElementById("name").innerHTML = answer;
